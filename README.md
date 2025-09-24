@@ -86,11 +86,7 @@ The analysis uses two main datasets:
 *Complete Tableau story showing the narrative flow of FIFA19 player analysis*
 
 ### Wage and Performance Clusters
-![Wage and overall clusters](Wage%20and%20overall%20clusters.png)
-*Clustering analysis of wages vs overall ratings*
-
-### Wage and Performance Clusters
-![Wage and overall clusters](Wage%20and%20overall%20clusters.png)
+![Wage and overall clusters](Wage%2520and%2520overall%2520clusters.png)
 *Clustering analysis of wages vs overall ratings*
 
 
