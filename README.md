@@ -80,9 +80,6 @@ The analysis uses two main datasets:
 ![Players financial details](Players%20financial%20details.png)
 *Comprehensive financial breakdown of player values and wages*
 
-### Wage and Performance Clusters
-![Wage and overall clusters](Wage%20and%20overall%20clusters.png)
-*Clustering analysis of wages vs overall ratings*
 
 ### Release Clause Analysis
 ![Release clause](Release%20clause.png)
