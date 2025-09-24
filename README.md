@@ -89,6 +89,10 @@ The analysis uses two main datasets:
 ![Wage and overall clusters](Wage%20and%20overall%20clusters.png)
 *Clustering analysis of wages vs overall ratings*
 
+### Wage and Performance Clusters
+![Wage and overall clusters](Wage%20and%20overall%20clusters.png)
+*Clustering analysis of wages vs overall ratings*
+
 
 ## Tools Used
 - **Tableau Desktop**: Data visualization and dashboard creation
@@ -104,7 +108,8 @@ The analysis uses two main datasets:
 
 ##  Project Structure
 
-'''
+
+```
 
 tableau-project/
 ├── README.md
@@ -122,7 +127,7 @@ tableau-project/
 ├── Wage and overall clusters.png
 └── Data source.png
 
-'''
+```
 ##  Author
 
 **Milica Antic**
