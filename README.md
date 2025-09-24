@@ -31,8 +31,6 @@ The analysis uses two main datasets:
 - **Skills**: Acceleration, Balance, Ball Control, Crossing, Dribbling, Finishing, Jumping, Positioning, Stamina (0-100 scale)
 - **Overall**: General player rating (0-100)
 
-## Dashboard Screenshots
-
 ### Data Source Overview
 ![Data source](Data%20source.png)
 *Overview of data sources and structure used in the analysis*
@@ -45,7 +43,6 @@ The analysis uses two main datasets:
 ![Max value](Max%20value.png)
 *Highest valued players and market analysis*
 
-
 ### Player Count by Nationality
 ![Count per nationality](Count%20per%20nationality.png)
 *Distribution of players across different nationalities*
@@ -53,7 +50,6 @@ The analysis uses two main datasets:
 ### Nationality Analysis Dashboard
 ![Dashboard nationality](Daashboard%20nationality.png)
 *Detailed nationality-based analysis dashboard*
-
 
 ### Age Analysis Dashboard
 ![Dashboard age](Dashboard%20age.png)
@@ -71,16 +67,13 @@ The analysis uses two main datasets:
 ![Dashboard](Dashboard.png)
 *Main dashboard displaying key financial and performance metrics*
 
-
 ### Wage and Performance Clusters
-![Wage and overall clusters](Wage%20and%20overall%20clasters.png)
+![Wage and overall clusters](Wage%20and%20overall%20clusters.png)
 *Clustering analysis of wages vs overall ratings*
-
 
 ### Financial Details
 ![Players financial details](Players%20financial%20details.png)
 *Comprehensive financial breakdown of player values and wages*
-
 
 ### Release Clause Analysis
 ![Release clause](Release%20clause.png)
@@ -88,7 +81,7 @@ The analysis uses two main datasets:
 
 ### Complete Story
 ![Story](Story.png)
-*Complete Tableau story showing the narrative flow of FIFA19 player analysis*
+*Complete Tableau story showing the narrative flow of FIFA19 player analysis
 
 
 
@@ -109,21 +102,23 @@ The analysis uses two main datasets:
 
 ```
 
-tableau-project/
+Tableau-project/
 ├── README.md
-├── Story.png
-├── Dashboard.png
-├── Dashboard age.png
-├── Dashboard nationality.png
+├── fifa_players.csv
+├── fifa_players_statistics.csv
 ├── Count per nationality.png
-├── Players ranking.png
-├── Players financial details.png
+├── Daashboard nationality.png
+├── Dashboard age.png
+├── Dashboard.png
+├── Data source.png
 ├── Max value.png
+├── Players financial details.png
+├── Players ranking.png
 ├── Release clause.png
 ├── Score vs age.png
 ├── Statistic by age.png
-├── Wage and overall clusters.png
-└── Data source.png
+├── Story.png
+└── Wage and overall clusters.png
 
 ```
 ##  Author
