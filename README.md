@@ -45,14 +45,17 @@ The analysis uses two main datasets:
 ![Max value](Max%20value.png)
 *Highest valued players and market analysis*
 
+### Nationality Analysis Dashboard
+![Dashboard nationality](Daashboard%20nationality.png)
+*Detailed nationality-based analysis dashboard*
+
 ### Player Count by Nationality
 ![Count per nationality](Count%20per%20nationality.png)
 *Distribution of players across different nationalities*
 
-
 ### Nationality Analysis Dashboard
-![Dashboard nationality](https://raw.githubusercontent.com/milicaantic01/Tableau-project/main/Dashboard%20nationality.png)
-*Detailed nationality-based analysis dashboard*
+![Dashboard nationality](Daashboard%20nationality.png)
+
 
 ### Age Analysis Dashboard
 ![Dashboard age](Dashboard%20age.png)
