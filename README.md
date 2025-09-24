@@ -33,52 +33,58 @@ The analysis uses two main datasets:
 
 ## Dashboard Screenshots
 
-### Main Story Overview
-![Story Overview](Story.png)
-*Complete Tableau story showing the narrative flow of FIFA19 player analysis*
-
-### Financial Analysis Dashboard
-![Dashboard Overview](Dashboard.png)
-*Main dashboard displaying key financial and performance metrics*
-
-### Player Rankings by Position
-![Player Rankings](Players%20ranking.png)
-*Top players ranked by overall rating across different positions*
-
-### Age Distribution Analysis
-![Age Analysis](Dashboard%20age.png)
-*Player age distribution and performance correlation analysis*
-
-### Nationality Distribution
-![Nationality Count](Count%20per%20nationality.png)
+### Player Count by Nationality
+![Count per nationality](Count%20per%20nationality.png)
 *Distribution of players across different nationalities*
 
-![Nationality Dashboard](Dashboard%20nationality.png)
+### Main Dashboard
+![Dashboard](Dashboard.png)
+*Main dashboard displaying key financial and performance metrics*
+
+### Age Analysis Dashboard
+![Dashboard age](Dashboard%20age.png)
+*Player age distribution and performance correlation analysis*
+
+### Nationality Analysis Dashboard
+![Dashboard nationality](Dashboard%20nationality.png)
 *Detailed nationality-based analysis dashboard*
 
-### Financial Insights
-![Financial Details](Players%20financial%20details.png)
-*Comprehensive financial breakdown of player values and wages*
+### Data Source Overview
+![Data source](Data%20source.png)
+*Overview of data sources and structure used in the analysis*
 
-![Max Values](Max%20value.png)
+### Top Player Values
+![Max value](Max%20value.png)
 *Highest valued players and market analysis*
 
-![Release Clauses](Release%20clause.png)
+### Financial Details
+![Players financial details](Players%20financial%20details.png)
+*Comprehensive financial breakdown of player values and wages*
+
+### Player Rankings
+![Players ranking](Players%20ranking.png)
+*Top players ranked by overall rating across different positions*
+
+### Release Clause Analysis
+![Release clause](Release%20clause.png)
 *Analysis of release clause distributions*
 
-### Performance Analytics
-![Age vs Score](Score%20vs%20age.png)
+### Performance vs Age
+![Score vs age](Score%20vs%20age.png)
 *Correlation between player age and overall performance*
 
-![Age Statistics](Statistic%20by%20age.png)
+### Age-Based Statistics
+![Statistic by age](Statistic%20by%20age.png)
 *Statistical breakdown of performance metrics by age groups*
 
-![Wage Clusters](Wage%20and%20overall%20clusters.png)
+### Complete Story
+![Story](Story.png)
+*Complete Tableau story showing the narrative flow of FIFA19 player analysis*
+
+### Wage and Performance Clusters
+![Wage and overall clusters](Wage%20and%20overall%20clusters.png)
 *Clustering analysis of wages vs overall ratings*
 
-### Data Sources
-![Data Source](Data%20source.png)
-*Overview of data sources and structure used in the analysis*
 
 ## Tools Used
 - **Tableau Desktop**: Data visualization and dashboard creation
