@@ -49,8 +49,9 @@ The analysis uses two main datasets:
 ![Count per nationality](Count%20per%20nationality.png)
 *Distribution of players across different nationalities*
 
+
 ### Nationality Analysis Dashboard
-![Dashboard nationality](Dashboard%20nationality.png)
+![Dashboard nationality](https://raw.githubusercontent.com/milicaantic01/Tableau-project/main/Dashboard%20nationality.png)
 *Detailed nationality-based analysis dashboard*
 
 ### Age Analysis Dashboard
