@@ -70,6 +70,12 @@ The analysis uses two main datasets:
 ![Dashboard](Dashboard.png)
 *Main dashboard displaying key financial and performance metrics*
 
+
+### Wage and Performance Clusters
+![Wage and overall clusters](Wage%20and%20overall%20clasters.png)
+*Clustering analysis of wages vs overall ratings*
+
+
 ### Financial Details
 ![Players financial details](Players%20financial%20details.png)
 *Comprehensive financial breakdown of player values and wages*
@@ -85,10 +91,6 @@ The analysis uses two main datasets:
 ### Complete Story
 ![Story](Story.png)
 *Complete Tableau story showing the narrative flow of FIFA19 player analysis*
-
-### Wage and Performance Clusters
-![Wage and overall clusters](Wage%20and%20overall%20clasters.png)
-*Clustering analysis of wages vs overall ratings*
 
 
 
