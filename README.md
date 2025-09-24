@@ -45,9 +45,6 @@ The analysis uses two main datasets:
 ![Max value](Max%20value.png)
 *Highest valued players and market analysis*
 
-### Nationality Analysis Dashboard
-![Dashboard nationality](Daashboard%20nationality.png)
-*Detailed nationality-based analysis dashboard*
 
 ### Player Count by Nationality
 ![Count per nationality](Count%20per%20nationality.png)
