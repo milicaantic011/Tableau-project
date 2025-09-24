@@ -55,6 +55,7 @@ The analysis uses two main datasets:
 
 ### Nationality Analysis Dashboard
 ![Dashboard nationality](Daashboard%20nationality.png)
+*Detailed nationality-based analysis dashboard*
 
 
 ### Age Analysis Dashboard
